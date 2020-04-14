@@ -1,4 +1,4 @@
-ngresar credenciales
+#ingresar credenciales
 variable "access_key" {}
 variable "secret_key" {}
 provider "aws" {
